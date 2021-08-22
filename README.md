@@ -1,2 +1,2 @@
 # App-Atividade-Service
-Api para controle e gestão de atividades do projeto criado para a disciplina de Projeto Integrador III, app para gestão de tempo e atividades
+Api para gestão das atividades do app Touch, esta realiza todos os processos necessários além de intermediar a comunicação com a database.
